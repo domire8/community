@@ -9,4 +9,3 @@ type = "ros"
 image = "v2.0.6-jazzy"
 
 [build.packages.moveit]
-name = "moveit"
